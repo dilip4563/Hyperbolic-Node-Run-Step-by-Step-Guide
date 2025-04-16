@@ -8,3 +8,13 @@ https://app.hyperbolic.xyz/
 
 Register Your Number
 Use All The Ai Models
+Codes
+sudo apt update && sudo apt upgrade -y
+sudo apt install git screen python3
+sudo apt install python3.10-venv
+sudo apt install nano
+git clone https://github.com/0xmoei/chatbot-app.git
+cd chatbot-app
+python3 -m venv venv
+source venv/bin/activate
+pip install requests
